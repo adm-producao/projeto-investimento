@@ -75,40 +75,45 @@ xaringanExtra::use_scribble()
 
 - Após relacionadas as alternativas viáveis tecnicamente, analisa-se quais são atrativas economicamente
 
-- Finalmente, recomenda-se quais alternativas poderão ser executadas
+- Finalmente, recomendam-se quais alternativas poderão ser executadas
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
 A avaliação de um projeto visa a tomada de decisão que venha a elevar o valor de mercado da empresa, ou seja, criar valor para o acionista
-8.1	    Palavras-Chave em Análise de Projetos:
-- Taxa mínima de atratividade
-- Fluxo de caixa
-- Risco ´ retorno
-- Futuro
+
+- Taxa mínima de atratividade   
+- Fluxo de caixa   
+- Risco x retorno   
+- Futuro   
+
 ---
 
 ## PROJETO DE INVESTIMENTO
 
-8.2	Previsão de Mercado
+**Previsão de Mercado**
 - Forma de avaliar a demanda provável para produtos e serviços, levando em conta todas as evidências do mercado e os cenários criados para o futuro;
 - Utiliza métodos estatísticos que proporcionam uma visão futura com base no passado, acrescido de “algo mais”;
 - Pode utilizar técnicas de pesquisa, testes de marketing, market share, técnica Delphi, análise de cenários, painéis de especialistas, séries históricas etc
-8.3	Previsão de Receitas
+
+**Previsão de Receitas**
 - Função do Estudo de Mercado: demandas atual, potencial e futura;
 - Capacidade de Produção: tipo, quantidade, tecnologia etc;
 - Preço de Venda
+
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Estimativas dos Custos**   
 
-8.4	Estimativas dos Custos
 - Custos Fixos: mão-de-obra fixa, encargos sociais, aluguel, seguros, depreciação, juros de financiamentos, manutenção etc;
 - Custos Variáveis: mão-de-obra flutuante, encargos sociais, energia, matéria-prima etc;
 - Custos de Vendas: impostos, propaganda, comissões, despesas bancárias etc.
-8.5	Determinação dos Investimentos
+
+**Determinação dos Investimentos**
+
 - Investimento Fixo: terrenos, máquinas, equipamentos, obras civis etc;
 - Capital de Giro: estoques de matéria-prima, produtos semi-acabados, créditos etc;
 - Cronograma de Aplicação do Capital
@@ -117,145 +122,194 @@ A avaliação de um projeto visa a tomada de decisão que venha a elevar o valor
 
 ## PROJETO DE INVESTIMENTO
 
-
-8.6	Fontes de Financiamento
+**Fontes de Financiamento**   
 - Esquema de Pagamentos: juros, amortizações, comissões, taxas de compromisso, impostos e outros encargos.
-8.7	Prazo de Análise
+
+**Prazo de Análise**   
 - O prazo de análise pode ser definido com base numa decisão estratégica da empresa, em decorrência da necessidade do próprio projeto ou por consenso setorial
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Imposto de Renda**
 
-8.8	Imposto de Renda
 - Em análise de projetos, devido às  constantes alterações nas regras tributárias, que dificultam a projeção da carga tributária para períodos longos, utiliza-se a mesma base de cálculo para o IR, com uma só alíquota, que pode variar entre 30% e 35%.
+
 - Segundo a legislação brasileira, o imposto de renda das empresas é parte do lucro tributável do exercício:
+
 Lucro tributável = Receitas - despesas - “deduções”
+
 Deduções = depreciação e/ou despesas financeiras
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Depreciação - gerencial**
 
-8.9	Depreciação
 - É a diminuição do valor de um bem, resultante do desgaste pelo uso, ação da natureza ou obsolescência
+
 - A depreciação pode ser definida como a redução no valor de um patrimônio físico com o decorrer do tempo
-- A legislação brasileira do imposto de renda regulamenta a depreciação anual de ativos, a partir da fixação de taxas-limites anuais de depreciação, como, por exemplo:
-–	10% para móveis e utensílios
-–	10% para máquinas industriais
-–	20% para veículos
-–	4% para edifícios e construções
-- Do ponto de vista econômico, que é adotado nas análises de projetos,  a depreciação não é considerada como um custo, mas como uma fonte de recursos para as operações da empresa
-- A depreciação produz um impacto sobre o imposto de renda e, por conseguinte, afeta a rentabilidade dos projetos
 
-Bens	Taxa de depreciação	Prazo
-Tratores	25% a.a.	4 anos
-Veículos automotores para transporte de 10 pessoas ou mais, incluído o motorista	25% a.a.	4 anos
-Veículos de passageiros e outros veículos automóveis principalmente concebidos para transporte de pessoas 	20% a.a.	5 anos
-Veículos automóveis para transporte de mercadoria	25% a.a.	4 anos
-Caminhões fora-de-estrada	25% a.a.	4 anos
-Motociclos	25% a.a.	4 anos
+> É um custo
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
-- o prazo de vida útil para fins de depreciação de computadores e periféricos (hardware), taxa de 20% (vinte por cento) ao ano; 
-- o prazo mínimo admissível para amortização de custos e despesas de aquisição e desenvolvimento de logiciais (software) utilizados em processamento de dados, taxa de 20% (vinte por cento) ao ano. 
+**Depreciação - fiscal**
+
+No Brasil, por exemplo, a depreciação é dedutível do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL), conforme normas da Receita Federal (como as taxas tabeladas no Anexo I da Instrução Normativa RFB nº 1.700/2017). Isso incentiva investimentos em ativos produtivos.
+
+.small[
+Bens|	Taxa de depreciação|	Prazo|
+----|--------------------|------|
+Edifícios e construções	|4% a.a.	|25 anos|
+Móveis e utensílios	|10% a.a.	|10 anos|
+Ferramentas | 15 a 20% a.a. | 5 a 7 anos|
+Máquinas industriais	|10% a.a.	|10 anos|
+Veículos automóveis para transporte de mercadoria|	25% a.a.|	4 anos|
+Equipamentos de informática | 20% ao ano| 5 anos|
+]
+
+> É uma receita
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Valor Residual**
 
-8.10	Valor Residual
 - O valor residual de um ativo é igual ao seu preço de mercado previsto, na data terminal do projeto
+
 - Nas avaliações de projetos, no cálculo da depreciação de um ativo, não se deve levar em conta o valor residual (vr = 0), independentemente de sua possível existência
-- Deve-se considerar o impacto tributário da venda de um ativo (caso do valor residual estimado)  
+
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Carência em Empréstimos**
 
-8.11	Carência em Empréstimos
 Período inicial dos empréstimos em que não há pagamento do principal, ou seja, não há amortizações, mas poderá haver ou não pagamento de juros:
-Carência com pagamento de juros
-O saldo devedor permanece constante durante a carência     
-Carência sem pagamento de juros
-Os juros não pagos de cada período são  incorporados ao saldo devedor anterior, passando a produzir juros para o próximo período
+
+#### Carência com pagamento de juros
+- O saldo devedor permanece constante durante a carência     
+
+#### Carência sem pagamento de juros
+- Os juros não pagos de cada período são  incorporados ao saldo devedor anterior, passando a produzir juros para o próximo período
 
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Fluxo de Caixa Operacional**
 
-8.12	Fluxo de Caixa Operacional
 - A fase mais importante na análise de uma oportunidade potencial de investimento é a construção de seu fluxo de caixa, que basicamente, consiste na elaboração da estimativa dos resultados futuros a partir de investimentos iniciais
+
 - Fluxo de caixa é uma forma representativa das previsões das entradas e saídas de recursos financeiros de um projeto, em cada período de tempo, com base nos investimentos, receitas, custos, lucros, juros, impostos, amortizações etc
+
 - A fase mais importante da análise de um projeto, e também a mais difícil, é a estimativa de seu fluxo de caixa
-- Muitas variáveis e pessoas estão envolvidas e as previsões de cenários paras as receitas e custos são bastante complexas
+
+
+---
+
+## PROJETO DE INVESTIMENTO
+
+**Exercício:** 
+
+Elabore o fluxo de caixa do projeto da compra de uma máquina de R$50.000, com valor residual estimado de R$15.000, ao fim de 6 anos, cujas previsões das receitas, dos custos anuais, variáveis e fixos, são, respectivamente, de R$35.000, R$10.000 e R$5.000. Considere a taxa anual de depreciação de 25% e a alíquota de IR de 30%.
+
+--
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/fc.png")
+```
  
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**Taxa Mínima de Atratividade – TMA** - custo de oportunidade do capital
 
-Exercício: Elabore o fluxo de caixa do projeto da compra de uma máquina de R$50.000, com valor residual estimado de R$15.000, ao fim de 6 anos, cujas previsões das receitas, dos custos anuais, variáveis e fixos, são, respectivamente, de R$35.000, R$10.000 e R$5.000. Considere a taxa anual de depreciação de 25% e a alíquota de IR de 30%.
- 
----
-
-## PROJETO DE INVESTIMENTO
-
-8.13	Taxa Mínima de Atratividade – TMA - custo de oportunidade do capital
 Definida como a taxa de juros que o capital seria remunerado numa outra melhor alternativa de utilização, além do projeto de investimento em estudo
+
 ---
 
 ## PROJETO DE INVESTIMENTO
 
-8.14	O Valor Presente Líquido - VPL (tradução literal de Net Present Value - NPV)
+**O Valor Presente Líquido - VPL** (tradução literal de Net Present Value - NPV)
+
 Considerado como um critério rigoroso e isento de falhas técnicas, de maneira geral, é o melhor procedimento para seleção de projetos DIFERENTES, COM O MESMO HORIZONTE DE TEMPO
+
 O VPL é o valor no presente (t = 0) que equivale a um fluxo de caixa de um projeto, calculado a uma determinada taxa de desconto (TMA)
-VPL > 0 Þ PROJETO DEVE SER ACEITO;
-VPL = 0 Þ É INDIFERENTE ACEITAR OU REJEITAR O PROJETO;
-VPL < 0 Þ O PROJETO DEVE SER REJEITADO
 
+VPL > 0 - PROJETO DEVE SER ACEITO;   
+VPL = 0 - É INDIFERENTE ACEITAR OU REJEITAR O PROJETO;   
+VPL < 0 - O PROJETO DEVE SER REJEITADO
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
+**O Valor Presente Líquido - VPL**
 
- 
-8.15	TIR
+.pull-left[
+$$ VPL = \sum_{t=0}^{n} \frac{FC_t}{(1 + i)^t} $$
+]
+
+.pull-right[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("img/vpl.png")
+```
+]
+---
+
+## PROJETO DE INVESTIMENTO
+
+**TIR**
+
 - A Taxa Interna de Retorno - TIR (tradução literal de Internal Rate of Return - IRR) é a  taxa que eqüaliza o valor presente dos benefícios e dos custos de um projeto de investimento
+
 - Trata-se de um indicador de larga aceitação e um dos mais utilizados como parâmetro de decisão, mas existem restrições  para o seu uso
-	Projeto convencional – investimento antecedendo benefícios
-	Comparação de projetos em um mesmo horizonte
+   - Projeto convencional – investimento antecedendo benefícios
+   - Comparação de projetos em um mesmo horizonte
+
 - Não representa a rentabilidade do projeto
-- Em última análise, a TIR pode ser considerada como  a potencialidade do projeto de gerar retornos;
-- Interpretada desta forma, quanto mais alta for a TIR, em relação à TMA, mais rapidamente o capital investido será retornado e maior será o excedente de ganhos. 
-TIR > TMA Þ PROJETO DEVE SER ACEITO;
-TIR = TMA Þ É INDIFERENTE ACEITAR OU REJEITAR O PROJETO;
-TIR< TMA Þ O PROJETO DEVE SER REJEITADO
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
-8.16	Payback Descontado (tempo de recuperação do capital)
+**TIR**
+
+- Em última análise, a TIR pode ser considerada como  a potencialidade do projeto de gerar retornos;
+
+- Interpretada desta forma, quanto mais alta for a TIR, em relação à TMA, mais rapidamente o capital investido será retornado e maior será o excedente de ganhos. 
+
+TIR > TMA - PROJETO DEVE SER ACEITO;   
+TIR = TMA - É INDIFERENTE ACEITAR OU REJEITAR O PROJETO;   
+TIR< TMA - O PROJETO DEVE SER REJEITADO
+
+---
+
+## PROJETO DE INVESTIMENTO
+
+**Payback Descontado** (tempo de recuperação do capital)
+
 - É o número de períodos necessários para que o VPL de um fluxo de caixa seja zero
+
 - Principalmente quando o projeto envolve grandes riscos e incerteza quanto aos resultados do fluxo de caixa, em virtude de conflitos políticos, guerras, modismos, obsolescência etc
 
 ---
 
 ## PROJETO DE INVESTIMENTO
 
-Exercício:
-	O Grupo Rio de Janeiro está estudando a viabilidade econômica de adquirir um caminhão para fazer a entrega de sua produção. Estudos mostram que o caminhão percorrerá, em média, 500 km/dia, trabalhando cerca de 21 dias úteis por mês. O preço do caminhão está estimado em R$200.000,00 e a empresa pretende mantê-lo em operação por 3 anos. Os custos variáveis do caminhão foram estimados em R$1,11/km  e os custos fixos em R$10.000,00 mensais, com um crescimento de 5% ao ano. Considerando que existe grande demanda para toda a produção do Grupo Rio de Janeiro e que o valor do frete médio é de R$5,20/km, elabore o fluxo de caixa estimado do projeto em questão, após o Imposto de Renda, e analise o projeto pelo VPL, TIR e PAYBACK, para uma TMA de 20% ao ano, para o capital próprio. Considere a alíquota de IR de 30% a.a. e a depreciação de 50% do valor do veículo nos dois primeiros anos para cálculo do IR.
+**Exercício:**
+
+O Grupo Rio de Janeiro está estudando a viabilidade econômica de adquirir um caminhão para fazer a entrega de sua produção. Estudos mostram que o caminhão percorrerá, em média, 500 km/dia, trabalhando cerca de 21 dias úteis por mês. O preço do caminhão está estimado em R$200.000,00 e a empresa pretende mantê-lo em operação por 3 anos. Os custos variáveis do caminhão foram estimados em R$1,11/km  e os custos fixos em R$10.000,00 mensais, com um crescimento de 5% ao ano. Considerando que existe grande demanda para toda a produção do Grupo Rio de Janeiro e que o valor do frete médio é de R$5,20/km, elabore o fluxo de caixa estimado do projeto em questão, após o Imposto de Renda, e analise o projeto pelo VPL, TIR e PAYBACK, para uma TMA de 20% ao ano, para o capital próprio. Considere a alíquota de IR de 30% a.a. e a depreciação de 50% do valor do veículo nos dois primeiros anos para cálculo do IR.
 
 
 ---
